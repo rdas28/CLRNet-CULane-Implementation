@@ -1,0 +1,7 @@
+To run the CLRerNet lane detection project using the CULane dataset, 
+you need Python 3.10 along with specific versions of MMDetection and its dependencies. 
+The project requires MMDetection 3.0.0, MMCV 2.0.0, and MMEngine 0.7.4. 
+It also depends on PyTorch 2.0.1 and TorchVision 0.15.2, preferably with CUDA 11.8 support. 
+Additional libraries include NumPy, OpenCV, matplotlib, pycocotools, tqdm, Pillow, and PyYAML, among others. 
+These packages ensure proper data loading, training, evaluation, and visualization. 
+Optional tools like IPython, and pytest can assist in development and debugging. The setup is compatible with Ubuntu or Windows systems equipped with a CUDA-enabled GPU.
